@@ -210,7 +210,8 @@ function App() {
             <p><strong>UF:</strong> SP</p>
             <p><strong>CEP:</strong> 11015-180</p>
             <p><strong>NÚMERO DE INSCRIÇÃO/CNPJ:</strong> 51.090.537/0001-20</p>
-            <p><strong>ENDEREÇO ELETRÔNICO/E-MAIL:</strong> suporteoficial@seu-detetive-insta.com
+            <p><strong>ENDEREÇO ELETRÔNICO/E-MAIL:</strong> contato@hashtaggpizzzarialtda.shop
+
 </p>
           </div>
         </div>
